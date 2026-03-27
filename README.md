@@ -1,4 +1,4 @@
-# ⚖️ Sistema de Causas — Aldana Cativa
+# ⚖️ Sistema de Causas 
 
 ## Instalación rápida (5 pasos)
 
